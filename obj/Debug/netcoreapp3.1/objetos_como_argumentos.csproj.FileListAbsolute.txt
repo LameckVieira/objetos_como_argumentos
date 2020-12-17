@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\obj\Debug\netcoreapp3.1\objetos_como_argumentos.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\obj\Debug\netcoreapp3.1\objetos_como_argumentos.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\obj\Debug\netcoreapp3.1\objetos_como_argumentos.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\obj\Debug\netcoreapp3.1\objetos_como_argumentos.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\bin\Debug\netcoreapp3.1\objetos_como_argumentos.exe
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\bin\Debug\netcoreapp3.1\objetos_como_argumentos.deps.json
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\bin\Debug\netcoreapp3.1\objetos_como_argumentos.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\bin\Debug\netcoreapp3.1\objetos_como_argumentos.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\bin\Debug\netcoreapp3.1\objetos_como_argumentos.dll
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\bin\Debug\netcoreapp3.1\objetos_como_argumentos.pdb
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\obj\Debug\netcoreapp3.1\objetos_como_argumentos.dll
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\obj\Debug\netcoreapp3.1\objetos_como_argumentos.pdb
+C:\Users\Lameck\Desktop\C#\objetos_como_argumentos\obj\Debug\netcoreapp3.1\objetos_como_argumentos.genruntimeconfig.cache
